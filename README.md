@@ -23,16 +23,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei um assunto "quente" do momento, o aumento nas queimadas no Pantanal para gerar uma reportagem polêmica.
+Título:
+"Área queimada no Pantanal em 2024 já é 54% maior que em ano de destruição recorde"
+
+O objetivo foi utilizar o GPT para criar a reportagem com o seguinte prompt no GPT:
+"Como um reporter desejando criar polêmicas em cima de um determinado assunto, utilize a chamada a abaixo para criar mais polêmicas políticas ligadas ao governo atual do brasil.
+
+Área queimada no Pantanal em 2024 já é 54% maior que em ano de destruição recorde"
+
+Para criar imagens, o mesmo titulo foi utilizado no https://www.midjourney.com/imagine
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e midjourney
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Identificação de um assunto polêmico na atualidade
+Inserção do prompt engineering no GPT
+Inserção do prompt engineering no midjourney
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Resposta do prompt no GPT:
+
+Chamada polêmica:
+"Destruição desenfreada no Pantanal: governo atual bate recorde de omissão e falta de ação! Quem vai parar a devastação?"
+
+Esse tipo de chamada busca criar controvérsia ao sugerir que o governo é diretamente responsável pela falta de medidas preventivas ou de controle diante do aumento das queimadas. Ao destacar a suposta "omissão" e a "falta de ação", a intenção é provocar discussões acaloradas e colocar o governo em uma posição de defesa.
+
+### Fotos geradas
+![Foto 1](blob:https://photos.onedrive.com/4d4cdd26-6dba-4916-a224-02ba1aeeda10)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
