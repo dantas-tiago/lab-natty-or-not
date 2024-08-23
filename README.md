@@ -52,7 +52,7 @@ Chamada polêmica:
 Esse tipo de chamada busca criar controvérsia ao sugerir que o governo é diretamente responsável pela falta de medidas preventivas ou de controle diante do aumento das queimadas. Ao destacar a suposta "omissão" e a "falta de ação", a intenção é provocar discussões acaloradas e colocar o governo em uma posição de defesa.
 
 ### Fotos geradas
-![Foto 1](https://github.com/dantas-tiago/lab-natty-or-not/blob/main/exemplos/0_0.png?raw=true)
+![Foto 1](https://github.com/dantas-tiago/lab-natty-or-not/blob/main/exemplos/0_0v2.jpg?raw=true)
 ![Foto 2](https://github.com/dantas-tiago/lab-natty-or-not/blob/main/exemplos/u4519714515_rea_queimada_no_Pantanal_em_2024_j__54_maior_que__16bd77ea-8cee-4a39-8698-196e166c3a8a_1.png?raw=true)
 ![Foto 3](https://github.com/dantas-tiago/lab-natty-or-not/blob/main/exemplos/u4519714515_rea_queimada_no_Pantanal_em_2024_j__54_maior_que__16bd77ea-8cee-4a39-8698-196e166c3a8a_2.png?raw=true)
 
